@@ -25,12 +25,12 @@ A feature-rich healthcare app built in **Java (Android Studio)** using **Materia
 
 1. Clone this repository:
     ```
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    git clone https://github.com/Aditya-VP/Medical-App.git
     ```
 
 2. Open in **Android Studio** (minimum SDK: API 21+ recommended).
-
-3. Build the project and run on emulator/device.
+3. Android 7.0+.
+4. Build the project and run on emulator/device.
 
 ---
 
